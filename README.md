@@ -1,5 +1,9 @@
+![logo](https://github.com/dilgamage/Dilini-Gamage/blob/main/hallowen.gif)
+
 <h1 align="center">Hi 👋, I'm Adithya Panchali Indralal</h1>
 <h3 align="center">An Undergratuate student of SLIIT (4th year)</h3>
+
+<img align="right" alt="Coding" width="400" src="https://github.com/dilgamage/Dilini-Gamage/blob/main/Image.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhi99&label=Profile%20views&color=0e75b6&style=flat" alt="adhi99" /> </p>
 
